@@ -5,3 +5,5 @@ Basic Python Server Socket Program
 1) Save the files, <code>webserver.py</code>, <code>client.py</code>, <code>HelloWorld.html</code> in the same directory <br>
 2) Run webserver.py <br>
 3) Using the terminal in the same directory, enter: <code>client.py 127.0.0.1 12000 HelloWorld</code><br>
+
+~) The code of the html file should be visible in the terminal
